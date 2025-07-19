@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+input[type="date"]::-webkit-datetime-edit {
+  color: #cececee4; /* placeholder-like color */
+}
+
+::placeholder {
+  color: #cececee4; /* placeholder-like color */
+}
+
+*{
+    font-family: 'Gilroy';
+}
+body{
+    background-color: #111;
+}
+
+#tasklist::-webkit-scrollbar {
+    display: none;
+}
+#AllTask::-webkit-scrollbar {
+    display: none;
+}
