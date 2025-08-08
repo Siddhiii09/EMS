@@ -20,7 +20,7 @@ const CreateTask = () => {
       taskDate,
       category,
       active: false,
-      new: true, // ✅ matches TaskList check
+      new: true,
       failed: false,
       completed: false
     }
