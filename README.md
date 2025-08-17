@@ -100,3 +100,10 @@ src
 └── README.md            # Project documentation
 ```
 ---
+## 🖼️Snapshots
+
+### 👨‍💼Admin Dashboard UI
+![Admin Dashboard](./Snapshots/AdminDashboard.png)
+
+### 🧑‍💻Employee Dashboard UI
+![Employee Dashboard](./Snapshots/EmployeeDashboard.png)
